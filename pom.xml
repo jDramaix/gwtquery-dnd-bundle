@@ -6,13 +6,13 @@
   <groupId>com.googlecode.gwtquery.bundles</groupId>
   <artifactId>gquery-dnd-bundle</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
 
   <properties>
     <maven.compiler.source>1.5</maven.compiler.source>
     <maven.compiler.target>1.5</maven.compiler.target>
     <includedArtifacts>gwtquery,commonui-plugin,draggable-plugin,droppable-plugin</includedArtifacts>
-    <gqueryVersion>1.2.0</gqueryVersion>
+    <gqueryVersion>1.4.2</gqueryVersion>
     <dragableVersion>1.0.4</dragableVersion>
     <droppableVersion>1.0.8</droppableVersion>
   </properties>
